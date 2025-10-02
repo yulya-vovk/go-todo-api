@@ -1,0 +1,23 @@
+# Go
+*.exe
+*.test
+*.prof
+*.out
+coverage.out
+_build/
+bin/
+pkg/
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+/data/*.json
